@@ -85,7 +85,7 @@ public class BarChartCore: UIView {
                 
                 if point != nil && layer.0.frame.contains(point!) {
                     
-                    dataSource?.didTouch!(entryData: layer.1)
+                    dataSource?.didTouch?(entryData: layer.1)
                     
                 }
                 

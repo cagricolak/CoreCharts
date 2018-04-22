@@ -1,0 +1,16 @@
+PODS:
+  - CoreCharts (1.0.0)
+
+DEPENDENCIES:
+  - CoreCharts (from `../CoreCharts/`)
+
+EXTERNAL SOURCES:
+  CoreCharts:
+    :path: "../CoreCharts/"
+
+SPEC CHECKSUMS:
+  CoreCharts: 5197070a205049f37adead82d9543085aa2f0d68
+
+PODFILE CHECKSUM: b837f563f82190cb73019970b8484166f862c3b7
+
+COCOAPODS: 1.5.0

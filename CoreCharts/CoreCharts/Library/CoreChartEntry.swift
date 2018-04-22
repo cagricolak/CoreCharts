@@ -13,15 +13,15 @@ import UIKit
 @objc public class CoreChartEntry:NSObject {
     
     /// gönderilen veriye ait uniq veri
-    var id: String
+    public var id: String
     
     /// bar rengi
-    var barColor: UIColor
+    public var barColor: UIColor
     
     /// bar yüksekliği
-    var barHeight: Double
+    public var barHeight: Double
     
-    var barTitle: String
+    public var barTitle: String
     
     internal var barHeightText: String = "0.0"
     

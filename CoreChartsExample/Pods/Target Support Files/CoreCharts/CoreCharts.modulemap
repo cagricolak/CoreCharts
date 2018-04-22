@@ -1,0 +1,6 @@
+framework module CoreCharts {
+  umbrella header "CoreCharts-umbrella.h"
+
+  export *
+  module * { export * }
+}

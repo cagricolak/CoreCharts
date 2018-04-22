@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CoreCharts
+//  CoreChartsExample
 //
 //  Created by cgcolak on 22.04.2018.
 //  Copyright © 2018 Çağrı ÇOLAK. All rights reserved.

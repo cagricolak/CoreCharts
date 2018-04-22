@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CoreCharts.xcodeproj">
+      location = "self:CoreChartsExample.xcodeproj">
    </FileRef>
 </Workspace>
