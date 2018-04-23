@@ -55,7 +55,7 @@ most important setup is ready, now you can use some of featuristic CoreChart's p
 
 
 
-firstly you need comform your class to data source protocol, 
+firstly you need conform your class to data source protocol, 
 
 ```swift
 class DemoViewController: UIViewController,CoreChartViewDataSource {
