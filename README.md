@@ -1,6 +1,6 @@
 # CoreCharts
 
-CoreCharts is a simple way to use Data Visualize Library in Apple ecosystem world, and Mars!🚀
+One and Only Charts 😎
 
 ## Getting Started
 
