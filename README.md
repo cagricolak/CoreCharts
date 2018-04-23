@@ -1,6 +1,6 @@
 # CoreCharts
 
-### One and Only Charts 😎
+### Elegant way to use Graph Charts on Apple ecosystem with CoreCharts 😎
 
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png)
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png)
