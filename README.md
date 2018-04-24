@@ -1,6 +1,6 @@
 # CoreCharts
 
-### Elegant way to use Graph Charts on Apple ecosystem with CoreCharts 😎
+### Elegant way to use charts on iOS with CoreCharts 😎
 
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/CoreCharts.svg)](https://img.shields.io/cocoapods/v/CoreCharts.svg)
 ![CocoaPods Compatible](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
