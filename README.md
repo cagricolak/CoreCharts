@@ -1,6 +1,12 @@
 # CoreCharts
 
-One and Only Charts 😎
+### Elegant way to use charts on iOS with CoreCharts 😎
+
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/CoreCharts.svg)](https://img.shields.io/cocoapods/v/CoreCharts.svg)
+![CocoaPods Compatible](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
+
+![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png)
+![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png)
 
 ## Getting Started
 
@@ -52,7 +58,7 @@ most important setup is ready, now you can use some of featuristic CoreChart's p
 
 
 
-firstly you need comform your class to data source protocol, 
+firstly you need conform your class to data source protocol, 
 
 ```swift
 class DemoViewController: UIViewController,CoreChartViewDataSource {
