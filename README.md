@@ -138,6 +138,11 @@ class DemoViewController: UIViewController,CoreChartViewDataSource {
 
     @IBOutlet weak var barChart: VCoreBarChart!
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        barChart.dataSource = self
+    }
     
     func didTouch(entryData: CoreChartEntry) {
         print(entryData.barTitle)
@@ -170,19 +175,7 @@ class DemoViewController: UIViewController,CoreChartViewDataSource {
         return allCityData
         
     }
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        barChart.dataSource = self
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
+ 
 }
 ```
 
