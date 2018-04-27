@@ -200,7 +200,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Bug Report
 
