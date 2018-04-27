@@ -197,5 +197,12 @@ This project is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file f
 
 ## Bug Report
 
-* if you catch some bug please use StackOverflow, use this tag: corecharts-2018 and ask we.
+* if you catch some bug please use add issue section.
+
+## Add new feature
+
+* you can write a suggestion for the next new feature in the project section.
+
+## Questions
+* please use StackOverflow, use this tag: corecharts-2018 and ask we.
 
