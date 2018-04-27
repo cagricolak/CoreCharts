@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CoreCharts"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "Elegant way to use Graph Charts on Apple ecosystem with CoreCharts"
 
   # This description is used to generate tags and improve search results.
@@ -51,10 +51,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.authors             = { "Çağrı ÇOLAK" => "ben@cagricolak.net","Kemal TÜRK" => "kmltrk07@gmail.com" }
+  s.authors             = { "Çağrı ÇOLAK" => "cgcolak@gmail.com","Kemal TÜRK" => "kmltrk07@gmail.com" }
   # Or just: s.author    = "cagricolak"
   # s.authors            = { "cagricolak" => "cgcolak@gmail.com" }
-  s.social_media_url   = "http://instagram.com/cgcolak7"
+  #s.social_media_url   = "http://instagram.com/cgcolak7"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #

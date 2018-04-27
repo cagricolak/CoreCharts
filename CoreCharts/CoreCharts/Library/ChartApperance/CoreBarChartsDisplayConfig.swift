@@ -11,26 +11,26 @@ import UIKit
 public class CoreBarChartsDisplayConfig {
     
     /// the width of each bar
-    var barWidth: CGFloat?
+    public var barWidth: CGFloat?
     
     /// space between each bar
-    var barSpace: CGFloat?
+    public var barSpace: CGFloat?
     
     /// space at the bottom of the bar to show the title
-    var bottomSpace: CGFloat?
+    public var bottomSpace: CGFloat?
     
     /// space at the top of each bar to show the value
-    var topSpace: CGFloat?
+    public var topSpace: CGFloat?
     
-    var backgroundColor: UIColor = UIColor.clear
+    public var backgroundColor: UIColor = UIColor.clear
     
-    var titleFontSize:CGFloat?
-    var valueFontSize:CGFloat?
+    public var titleFontSize:CGFloat?
+    public var valueFontSize:CGFloat?
     
-    var titleFont: UIFont?
-    var valueFont: UIFont?
+    public var titleFont: UIFont?
+    public var valueFont: UIFont?
     
-    var titleLength: Int?
+    public var titleLength: Int?
     
     public init(){}
     
