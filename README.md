@@ -179,6 +179,62 @@ class DemoViewController: UIViewController,CoreChartViewDataSource {
 }
 ```
 
+## Appearance Customization
+### CoreBarChartsDisplayConfig Class
+
+You can change ui appearance for charts with CoreBarChartsDisplayConfig class and there have properties, here is the how to do this.
+
+#### Direct use
+You can use one shot initializer
+```swift
+import CoreCharts
+
+class DemoViewController: UIViewController,CoreChartViewDataSource {
+
+    @IBOutlet weak var barChart: VCoreBarChart!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        barChart.dataSource = self
+        
+        barChart.displayConfig = CoreBarChartsDisplayConfig(barWidth: 40.0,
+                                                            barSpace: 20.0,
+                                                            bottomSpace: 20.0,
+                                                            topSpace: 20.0,
+                                                            backgroundColor: UIColor.black,
+                                                            titleFontSize: 12,
+                                                            valueFontSize: 14,
+                                                            titleFont: UIFont(),
+                                                            valueFont: UIFont(),
+                                                            titleLength: 12)
+    }
+
+```
+
+#### Spesific use
+
+You can use only what you just need.
+
+```swift
+import CoreCharts
+
+class DemoViewController: UIViewController,CoreChartViewDataSource {
+
+    @IBOutlet weak var barChart: VCoreBarChart!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        barChart.dataSource = self
+        
+        bbarChart.displayConfig.barWidth = 10
+        barChart.displayConfig.barSpace = 20
+        barChart.displayConfig.titleFontSize = 15
+    }
+
+```
+
 
 ## Contribute are Welcome 🎉
 
