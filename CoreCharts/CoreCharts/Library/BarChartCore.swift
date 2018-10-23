@@ -150,8 +150,11 @@ public class BarChartCore: UIView {
             minValue = Double(scrollView.frame.height / 3)
         }
         
-        maxBarHeight = maxValue / maxValue
-        minBarHeight = minValue / maxValue
+        // Fixed 2018/10/23
+        if maxValue > 0 {
+            maxBarHeight = maxValue / maxValue
+            minBarHeight = minValue / maxValue
+        }
         
         for index in 0...entries.count - 1 {
             
@@ -159,7 +162,10 @@ public class BarChartCore: UIView {
             
             let barHeight = entry.barHeight
             entry.barHeightText = String(barHeight.description.split(separator: ".")[0])
-            entry.barHeight = entry.barHeight / maxValue
+            // Fixed 2018/10/23
+            if maxValue > 0 {
+                entry.barHeight = entry.barHeight / maxValue
+            }
             
         }
         
