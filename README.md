@@ -8,6 +8,8 @@
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png)
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png)
 
+Dil seçenekleri:
+
 [CoreCharts 🇹🇷](https://nscolak.com/library/2018/11/11/CoreCharts-Library.html) 
 
 ## Getting Started
