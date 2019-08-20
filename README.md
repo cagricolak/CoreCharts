@@ -264,6 +264,6 @@ This project is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file f
 
 * you can write a suggestion for the next new feature in the project section.
 
-## Questions
-* please use StackOverflow, use this tag: corecharts-2018 and ask we.
+## Other My Repos
+- [TextSphere](https://github.com/cagricolak/TextSphere) - TextSphere is a small framework for customized TextView
 
