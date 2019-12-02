@@ -5,10 +5,6 @@
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/CoreCharts.svg)](https://img.shields.io/cocoapods/v/CoreCharts.svg)
 ![CocoaPods Compatible](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
 
-|Language | Docs|
---- | ---
-🇹🇷 Türkçe | [nscolak](https://nscolak.com/library/2018/11/11/CoreCharts-Library.html) 
-
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png)
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png)
 
