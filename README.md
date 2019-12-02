@@ -1,10 +1,13 @@
-# CoreCharts 
+# Core Charts | Basic Chart Library for iOS
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/CoreCharts.svg)](https://img.shields.io/cocoapods/v/CoreCharts.svg)
 ![CocoaPods Compatible](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
 
 
-![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png)
-![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png)
+| HCoreBarChart  | VCoreBarChart |
+| ------------- | ------------- |
+| <img src="https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png" width="400" height="300">  | <img src="https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png" width="400" height="300"> |
+
+
 
 - [Requirements](#requirements)
 - [Installation](#installation)
