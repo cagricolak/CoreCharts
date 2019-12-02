@@ -12,6 +12,10 @@
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase.png)
 ![alt text](https://github.com/cagricolak/CoreCharts/blob/master/docs/showcase2.png)
 
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Appearance Customization](appearance-customization)
 
 ## Getting Started
 
